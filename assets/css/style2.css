@@ -187,8 +187,8 @@ p {
   }
 
   .main{
-      display: flex;
-      flex-direction: column;
+      /* display: flex;
+      flex-direction: column; */
       max-width: 85%;
       margin: 0 auto;
   }
@@ -202,8 +202,7 @@ p {
 
   .image {
     position: relative;
-/*     
-    width: 100%; */
+
 }
 .image2 {
     position: relative;
@@ -218,7 +217,7 @@ h3 {
 
 h3 span {
     color: black;
-    font: bold 24px/45px Helvetica, Sans-Serif;
+    font: bold 10px/1px Helvetica, Sans-Serif;
     letter-spacing: -1px;
     background: rgba(124, 220, 115, 0.461);
     background: rgba(124, 220, 115, 0.461);
