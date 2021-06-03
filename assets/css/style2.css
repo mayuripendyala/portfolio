@@ -112,11 +112,13 @@ p {
     border-left:3px solid;
     margin-left: 10px;
     padding: 0px 10px;
+    width:100%
   }
   .divider1 {
     border-right:3px solid;
     margin-right: 10px;
     padding: 0px 10px;
+    width: 100%;
   }
 
 
