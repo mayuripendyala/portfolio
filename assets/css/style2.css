@@ -130,6 +130,7 @@ p {
   }
   img {
     opacity: 0.5;
+    width : 100%;
   }
 
   img:hover {
@@ -222,4 +223,16 @@ h3 span {
     background: rgba(124, 220, 115, 0.461);
     background: rgba(124, 220, 115, 0.461);
    
+}
+
+.column{
+    flex:33.3%;
+}
+
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
